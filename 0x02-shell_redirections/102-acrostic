@@ -1,2 +1,0 @@
-#!/bin/bash
-cut -cl | tr -d n | sort
